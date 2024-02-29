@@ -1,24 +1,27 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+
+   <>
+<nav class="navbar sticky-top navbar-light bg-light">
+<h1 id="pcpc1">Pacific Counseling and Pyschological Center</h1>
+</nav>
+
+<div class='about1'>
+  <h2 id="empower">Empowering You to Thrive</h2>
+</div>
+
+<div class="about2">
+  <h2>Our Services </h2>
+  <h4>Indiduial Counseling</h4>
+  <h4>Family Therapy</h4>
+  <h4>Group Sessions</h4>
+  <h4>Child Thearpy</h4>
+  <h4>Research</h4>
+</div>
+   </>
   );
 }
 
