@@ -1,20 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,400..900&display=swap')
 
-#nav{
- overflow: hidden;
-  background-color: aqua;
-}
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
+
 
 #pcpc1{
 font-family: "Playfair Display", serif;
-font-size: 1.5em;
-padding: .5em;
+color: aliceblue;
 }
 
 .about1{
@@ -37,7 +27,87 @@ padding: .5em;
 
 .about2{
   font-family: "Playfair Display", serif;
+  text-align: center;
+}
+
+#each{
+  font-family: "Abril Fatface", serif;
   display: flex;
-  flex-direction: column;
-  padding: 1em;
+  margin: .5em;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#one{
+background-image: url("https://images.squarespace-cdn.com/content/v1/5f133f9f1f4b2a1a167b24e5/8f9680c1-9397-46cb-9432-e3e6f8506dc3/DALL%C2%B7E+2023-11-23+%7C+Teen+Therapist+%7C+Kansas+City+%7C+Blue+Springs+%7C+Lee%27s+Summit+%7C+Liberty+%7C+Independence");
+height: 5em;
+width: 10em;
+background-size: cover;
+background-repeat: no-repeat;
+color: aliceblue;
+border-radius: 10%;
+margin: .3em;
+background-position: 10%;
+}
+
+#two{
+background-image: url("https://kentuckycounselingcenter.com/wp-content/uploads/2021/03/importance-of-family-therapy-for-families-scaled.jpg");
+height: 5em;
+width: 10em;
+background-size: cover;
+background-repeat: no-repeat;
+color: aliceblue;
+border-radius: 10%;
+margin: .3em;
+}
+
+#three{
+background-image: url("https://freebythesea.com/wp-content/uploads/2020/06/GT-2-1.jpeg");
+height: 5em;
+width: 10em;
+background-size: cover;
+background-repeat: no-repeat;
+color: aliceblue;
+border-radius: 10%;
+margin: .3em;
+}
+
+#four{
+background-image: url("https://facts.net/wp-content/uploads/2023/09/10-surprising-facts-about-child-psychologist-1695737053.jpeg");
+height: 5em;
+width: 10em;
+background-size: cover;
+background-repeat: no-repeat;
+color: aliceblue;
+border-radius: 10%;
+margin: .3em;
+}
+
+#words1{
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: .6em;
+  border-radius: 10%;
+}
+
+#words2{
+  background-color: rgba(0, 0, 0, 0.3);
+ padding-top: .5em;
+ padding-bottom: 2em;
+  margin-top: -.01em;
+  border-radius: 10%;
+}
+
+#words3{
+  background-color: rgba(0, 0, 0, 0.3);
+ padding-top: .5em;
+ padding-bottom: 2em;
+  margin-top: -.01em;
+  border-radius: 10%;
+}
+#words4{
+  background-color: rgba(0, 0, 0, 0.3);
+ padding-top: .5em;
+ padding-bottom: 2em;
+  margin-top: -.01em;
+  border-radius: 10%;
 }
