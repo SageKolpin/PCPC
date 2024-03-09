@@ -206,7 +206,6 @@ padding-bottom: 5em;
 
 .about7{
   font-family: "Abril Fatface", serif;
-  margin-top: 1em;
   height: 15em;
   padding: 1em;
 }
@@ -237,4 +236,47 @@ font-size: 1.2em;
   #loc{
     margin-top: -1em;
     padding-bottom: 1.3em;
+  }
+
+
+
+  /* About Page */
+
+
+  .aboutheader {
+    font-family: "Abril Fatface", serif;
+   text-align: center;
+  }
+
+  .aboutbio{
+    font-family: "Playfair Display", serif;
+    padding: 1em;
+  }
+
+  #seca{
+    font-size: 1em;
+  }
+  #aboutpage {
+    display: flex;
+    flex-direction: column;
+  } 
+  #aboutimg{
+  width: 20em;
+  padding: 1em;
+  align-self: center;
+  }
+
+  #images{
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;
+  }
+
+  #img1{
+  width: 100%;
+  }
+
+  #hmbu{
+    margin: 1em;
+
   }
