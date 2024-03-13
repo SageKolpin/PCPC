@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.5.2",
     "css-loader": "^6.10.0",
     "style-loader": "^3.3.4"
   }
