@@ -56,6 +56,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
         <h1>Hello, my name is Thierry (he/him/his)</h1>
    
         </div>
+        <div id='aboutdesk'>
         <div className="aboutbio">
         <h3 id='seca'>Dr. Thierry Kolpin received his doctorate from Stanford University, California, with an emphasis in school and community-based counseling psychology. <br/>  <br/> Licensed in California and Washington, Dr. Kolpin sees private clients both in-person and virtually, with offices in Orange, California, and Poulsbo, Washington. In addition, as an Associate Professor at the University of Massachusetts Global, he is the Department Chair for the Professional School Counseling and Psychology programs. <br/> <br/> He also consults for universities across the globe to assist in the development of mental health and disability support.  Dr. Kolpin presents at international conferences on topics including Trauma, Disabilities, Mindfulness, Crisis Prevention and Response, TBI, Depression, and Anxiety.  </h3>
      </div> 
@@ -63,7 +64,8 @@ import NavDropdown from 'react-bootstrap/NavDropdown';
      </div>
      <div id='hmbu'>
      <div className="d-grid gap-2">
-     <Button id="button3" variant="outline-success" size='lg' href="/">Homepage</Button>{' '}
+     <Button id="button4" variant="success" size='lg' href="/">Homepage</Button>{' '}
+     </div>
      </div>
      </div>
         

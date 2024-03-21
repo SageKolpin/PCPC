@@ -1,19 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
-#pcpc1{
-font-family: "Playfair Display", serif;
-color: aliceblue;
-font-size: 1.7em;
+#pcpc1 {
+  font-family: "Playfair Display", serif;
+  color: aliceblue;
+  font-size: 1.7em;
 }
-#navbar{
+
+#navbar {
   display: flex;
   width: 100%;
   overflow: hidden;
   justify-content: space-around;
 }
 
-.about1{
+.about1 {
   font-family: "Abril Fatface", serif;
   display: flex;
   justify-content: center;
@@ -23,106 +24,108 @@ font-size: 1.7em;
   background-size: cover;
   background-position: 10%;
   margin-top: -1em;
-} 
+}
 
-#empower{
+#empower {
   margin-top: 1.7em;
   font-family: "Abril Fatface", serif;
   font-style: italic;
   font-weight: 400;
 }
 
-.about2{
+.about2 {
   text-align: center;
 }
+
 #services {
-font-weight: 800;
-font-family: "Playfair Display", serif;
+  font-weight: 800;
+  font-family: "Playfair Display", serif;
 }
 
-#each{
+#each {
   font-family: "Abril Fatface", serif;
   display: flex;
   margin: .5em;
-  flex-wrap: wrap; 
+  flex-wrap: wrap;
   justify-content: center;
 }
 
-#one{
-background-image: url("https://images.squarespace-cdn.com/content/v1/5f133f9f1f4b2a1a167b24e5/8f9680c1-9397-46cb-9432-e3e6f8506dc3/DALL%C2%B7E+2023-11-23+%7C+Teen+Therapist+%7C+Kansas+City+%7C+Blue+Springs+%7C+Lee%27s+Summit+%7C+Liberty+%7C+Independence");
-height: 5em;
-width: 10em;
-background-size: cover;
-background-repeat: no-repeat;
-color: aliceblue;
-border-radius: 10%;
-margin: .3em;
-background-position: 10%;
+#one {
+  background-image: url("https://images.squarespace-cdn.com/content/v1/5f133f9f1f4b2a1a167b24e5/8f9680c1-9397-46cb-9432-e3e6f8506dc3/DALL%C2%B7E+2023-11-23+%7C+Teen+Therapist+%7C+Kansas+City+%7C+Blue+Springs+%7C+Lee%27s+Summit+%7C+Liberty+%7C+Independence");
+  height: 5em;
+  width: 10em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: aliceblue;
+  border-radius: 10%;
+  margin: .3em;
+  background-position: 10%;
 }
 
-#two{
-background-image: url("https://kentuckycounselingcenter.com/wp-content/uploads/2021/03/importance-of-family-therapy-for-families-scaled.jpg");
-height: 5em;
-width: 10em;
-background-size: cover;
-background-repeat: no-repeat;
-color: aliceblue;
-border-radius: 10%;
-margin: .3em;
+#two {
+  background-image: url("https://kentuckycounselingcenter.com/wp-content/uploads/2021/03/importance-of-family-therapy-for-families-scaled.jpg");
+  height: 5em;
+  width: 10em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: aliceblue;
+  border-radius: 10%;
+  margin: .3em;
 }
 
-#three{
-background-image: url("https://freebythesea.com/wp-content/uploads/2020/06/GT-2-1.jpeg");
-height: 5em;
-width: 10em;
-background-size: cover;
-background-repeat: no-repeat;
-color: aliceblue;
-border-radius: 10%;
-margin: .3em;
+#three {
+  background-image: url("https://freebythesea.com/wp-content/uploads/2020/06/GT-2-1.jpeg");
+  height: 5em;
+  width: 10em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: aliceblue;
+  border-radius: 10%;
+  margin: .3em;
 }
 
-#four{
-background-image: url("https://facts.net/wp-content/uploads/2023/09/10-surprising-facts-about-child-psychologist-1695737053.jpeg");
-height: 5em;
-width: 10em;
-background-size: cover;
-background-repeat: no-repeat;
-color: aliceblue;
-border-radius: 10%;
-margin: .3em;
+#four {
+  background-image: url("https://facts.net/wp-content/uploads/2023/09/10-surprising-facts-about-child-psychologist-1695737053.jpeg");
+  height: 5em;
+  width: 10em;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: aliceblue;
+  border-radius: 10%;
+  margin: .3em;
 }
 
-#words1{
+#words1 {
   background-color: rgba(0, 0, 0, 0.3);
   padding: .6em;
   border-radius: 10%;
 }
 
-#words2{
+#words2 {
   background-color: rgba(0, 0, 0, 0.3);
- padding-top: .5em;
- padding-bottom: 2em;
+  padding-top: .5em;
+  padding-bottom: 2em;
   margin-top: -.01em;
   border-radius: 10%;
 }
 
-#words3{
+#words3 {
   background-color: rgba(0, 0, 0, 0.3);
- padding-top: .5em;
- padding-bottom: 2em;
-  margin-top: -.01em;
-  border-radius: 10%;
-}
-#words4{
-  background-color: rgba(0, 0, 0, 0.3);
- padding-top: .5em;
- padding-bottom: 2em;
+  padding-top: .5em;
+  padding-bottom: 2em;
   margin-top: -.01em;
   border-radius: 10%;
 }
 
-.about3{
+#words4 {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding-top: .5em;
+  padding-bottom: 2em;
+  margin-top: -.01em;
+  border-radius: 10%;
+}
+
+.about3 {
   font-family: "Playfair Display", serif;
   text-align: center;
   margin-top: 1em;
@@ -133,57 +136,52 @@ margin: .3em;
 
 
 
-#space{
-height: 1em;
+#space {
+  height: 1em;
 }
 
-#space2{
+#space2 {
   height: 3em;
-  }
-
-
-
-.about4{
-    font-family: "Abril Fatface", serif;
-    margin-top: 1em;
-    height: 20em;
 }
-  
 
-#dc{
+
+
+.about4 {
+  font-family: "Abril Fatface", serif;
+  margin-top: 1em;
+  height: 20em;
+}
+
+
+#dc {
   margin-left: 10em;
   text-align: center;
 }
 
 
-#drwho{
-width: 14em;
-margin-left: 1em;
+#drwho {
+  width: 14em;
+  margin-left: 1em;
 }
 
-#about5{
+#about5 {
   display: flex;
   align-items: end;
   margin-top: -4em;
 }
 
-#shortabout{
+#shortabout {
   font-family: "Playfair Display", serif;
   padding: 1em;
   font-size: 1em;
 }
 
 
-
-
-
-
-
-#button3{
+#button3 {
   margin-left: 1em;
 }
 
-.about6{
+.about6 {
   font-family: "Abril Fatface", serif;
   margin-top: 1em;
   height: 15em;
@@ -194,33 +192,34 @@ margin-left: 1em;
   color: aliceblue;
 }
 
-#resourceab{
-    font-family: "Playfair Display", serif;
-    font-size: 1em;
-}
-#rew{
-background-color: rgba(0, 0, 0, 0.3);
-padding: 2em;
-padding-bottom: 5em;
+#resourceab {
+  font-family: "Playfair Display", serif;
+  font-size: 1em;
 }
 
-.about7{
+#rew {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 2em;
+  padding-bottom: 5em;
+}
+
+.about7 {
   font-family: "Abril Fatface", serif;
   height: 15em;
   padding: 1em;
 }
 
-#const{
-font-family: "Playfair Display", serif;
-font-size: 1.2em;
+#const {
+  font-family: "Playfair Display", serif;
+  font-size: 1.2em;
 }
 
-#forms{
+#forms {
   display: flex;
   flex-direction: column;
 }
 
-.about8{
+.about8 {
   margin-top: 14em;
   font-family: "Abril Fatface", serif;
   height: 5em;
@@ -228,55 +227,279 @@ font-size: 1.2em;
   background-image: url('https://images.pexels.com/photos/2860705/pexels-photo-2860705.jpeg?auto=compress&cs=tinysrgb&w=800');
   background-size: cover;
 }
-#rew1{
+
+#rew1 {
   background-color: rgba(0, 0, 0, 0.3);
   color: aliceblue;
-  }
+}
 
-  #loc{
-    margin-top: -1em;
-    padding-bottom: 1.3em;
-  }
-
-
-
-  /* About Page */
+#loc {
+  margin-top: -1em;
+  padding-bottom: 1.3em;
+}
 
 
-  .aboutheader {
-    font-family: "Abril Fatface", serif;
-   text-align: center;
-  }
 
-  .aboutbio{
-    font-family: "Playfair Display", serif;
-    padding: 1em;
-  }
+/* About Page */
 
-  #seca{
-    font-size: 1em;
-  }
-  #aboutpage {
-    display: flex;
-    flex-direction: column;
-  } 
-  #aboutimg{
+
+.aboutheader {
+  font-family: "Abril Fatface", serif;
+  text-align: center;
+}
+
+.aboutbio {
+  font-family: "Playfair Display", serif;
+  padding: 1em;
+}
+
+#seca {
+  font-size: 1em;
+}
+
+#aboutpage {
+  display: flex;
+  flex-direction: column;
+}
+
+#aboutimg {
   width: 20em;
   padding: 1em;
   align-self: center;
-  }
+}
 
-  #images{
-    display: flex;
-    justify-content: center;
-    margin-top: 2em;
-  }
+#images {
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+}
 
-  #img1{
+#img1 {
   width: 100%;
+}
+
+
+#hmbu {
+  margin: 1em;
+
+}
+
+#pcpc11 {
+  display: none;
+}
+
+#lrgabout {
+  display: none;
+}
+#doc2{
+  display: none;
+}
+.desk1{
+  display: none;
+}
+
+
+
+
+
+
+@media screen and (min-width: 800px) {
+  #navbar {
+    justify-content: space-between;
+    margin-right: 3em;
+    margin-left: 3em
   }
 
-  #hmbu{
-    margin: 1em;
+  #pcpc11 {
+    display: block;
+    font-family: "Playfair Display", serif;
+    color: aliceblue;
+    font-size: 1.7em;
+  }
+
+  #pcpc1 {
+    display: none;
+  }
+
+  #background {
+    display: none;
+  }
+
+#doc2{
+  display: flex;
+}
+
+  .about1 {
+    background-image: url('https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg?auto=compress&cs=tinysrgb&w=800');
+    width: 100%;
+    height: 35em;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+  }
+
+  #empower {
+    margin-top: 0;
+    font-size: 4em;
+    padding: 1em;
+    color: aliceblue;
+    margin-left: 5%;
+  } 
+
+  #lgabout2 {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2em;
+  }
+
+#services{
+  font-size: 3em;
+}
+#each{
+  display: flex;
+ justify-content: space-between;
+}
+  .about4{
+  background-color: white;
+  height: 27em;
+  margin: 3em;
+  }
+
+#images{
+  display: none;
+}
+#img{
+width: 90%;
+}
+
+#drwho {
+  width: 20em;
+  margin: 1em;
+  margin-top: -1em;
+}
+#button3{
+margin-left: 15%;
+margin-top: 5%;
+}
+
+#dc{
+  margin-left: -13em;
+  margin-top: 1em;
+
+}
+#shortabout{
+  margin-top: -17em;
+  font-size: 1.2em;
+}
+
+
+  #one {
+    height: 15em;
+    width: 15em;
+    margin: 2em;
+    margin-top: 0em;
+  }
+
+  #two {
+    height: 15em;
+    width: 15em;
+    background-position: 60%;
+    margin: 2em;
+    margin-top: 0em;
 
   }
+
+  #three {
+    height: 15em;
+    width: 15em;
+    background-position: 40%;
+    margin: 2em;
+    margin-top: 0em;
+
+  }
+
+  #four {
+    height: 15em;
+    width: 15em;
+    background-position: 50%;
+    margin: 2em;
+    margin-top: 0em;
+
+  }
+
+  #each {
+    display: flex;
+    justify-content: space-around;
+    padding: 2em;
+  }
+
+  #words1 {
+    padding: 3em;
+    margin-top: 1em;
+  }
+
+  #words2 {
+    padding: 3em;
+    margin-top: 1em;
+  }
+
+  #words3 {
+    padding: 3em;
+    margin-top: 1em;
+  }
+
+  #words4 {
+    padding: 3em;
+    margin-top: 1em;
+  }
+
+  .mobil1{
+    display: none;
+  }
+
+  .desk1{
+    display: flex;
+  }
+  .about3{
+    width: 50%;
+    height: 20em;
+  }
+  #consult{
+    margin-top: 20%;
+  }
+  .about6{
+    width: 50%;
+    height: 20em;
+    background-image: url('https://i.imgur.com/2dybuvv.png');
+    background-position: center center;
+  }
+#resourceab{
+  font-size: 1.5em;
+}
+  #rew {
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 2em;
+    padding-bottom: 7.3em;
+  }
+  .about7{
+    width: 80%; 
+    font-family: "Playfair Display", serif;
+  }
+#aboutdesk{
+  display: flex;
+  justify-content: center;
+  padding: 2em;
+}
+.aboutbio{
+  width: 30%;
+}
+#button4{
+  width: 20em;
+  justify-self: center;
+}
+.about7{
+margin-left: 10%;
+}
+
+
+}
